@@ -13,5 +13,6 @@
     "editor.cursorStyle": "line",
     "breadcrumbs.enabled": false,
     "editor.showUnused": false,
-    "tslint.enable": false
+    "tslint.enable": false,
+    "liveServer.settings.port": 5501
   }
